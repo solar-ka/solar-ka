@@ -3,6 +3,7 @@
 
 ## Стек технологий: 
 Python 3, Django, pytest, git, REST API, PostgreSQl, gunicorn, Redoc
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 Также: алгоритмы и структуры данных, ООП, базы данных, SQL, NGINX, Docker
 
 ## Мои контакты:
