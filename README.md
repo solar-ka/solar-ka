@@ -2,9 +2,14 @@
 Закончила курсы Яндекс.Практикум по программе python-разработчик. Реализовала самостоятельно и в команде с однокурсниками несколько проектов.
 
 ## Стек технологий: 
-Python 3, Django, pytest, git, REST API, PostgreSQl, gunicorn, Redoc
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-Также: алгоритмы и структуры данных, ООП, базы данных, SQL, NGINX, Docker
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Также: REST API, PostgreSQl, Redoc, pytest, алгоритмы и структуры данных, ООП
 
 ## Мои контакты:
 :envelope: kar-zak1996@ya.ru
