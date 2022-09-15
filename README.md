@@ -7,6 +7,8 @@ Python 3, Django, pytest, git, REST API, PostgreSQl, gunicorn, Redoc
 
 ## Мои контакты:
 - :envelope: kar-zak1996@ya.ru
+- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[#0A66C2].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/[ICON SLUG].svg" />
 - [#0A66C2](https://www.linkedin.com/in/solar-ka/)
 - [#26A5E4](https://t.me/solar_ka)
 - [<img src="[https://www.google.com/search?q=hh+%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF&sxsrf=ALiCzsZRuaVrfDV14fd_LocgxC8y97j_BA:1663239238783&source=lnms&tbm=isch&sa=X&ved=2ahUKEwja7oOA0Zb6AhVqiYsKHTCKBgkQ_AUoAXoECAEQAw&biw=1396&bih=633&dpr=1.38#imgrc=0S-T64t7kh9aoM" alt="альтернативный текст">](https://hh.ru/resume/1c098656ff0b3d9d1a0039ed1f46436d37637a)
