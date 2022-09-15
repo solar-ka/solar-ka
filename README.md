@@ -7,7 +7,7 @@ Python 3, Django, pytest, git, REST API, PostgreSQl, gunicorn, Redoc
 
 ## Мои контакты:
 - telegram: @solar_ka
-- почта: kar-zak1996@ya.ru
+- [:envelope:](kar-zak1996@ya.ru)
 - [linkedIn](https://www.linkedin.com/in/solar-ka/)
 - [hh](https://hh.ru/resume/1c098656ff0b3d9d1a0039ed1f46436d37637a)
 
