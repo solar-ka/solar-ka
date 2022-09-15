@@ -6,10 +6,10 @@ Python 3, Django, pytest, git, REST API, PostgreSQl, gunicorn, Redoc
 Также: алгоритмы и структуры данных, ООП, базы данных, SQL, NGINX, Docker
 
 ## Мои контакты:
-- telegram: @solar_ka
-- [:envelope:](kar-zak1996@ya.ru)
-- [linkedIn](https://www.linkedin.com/in/solar-ka/)
-- [hh](https://hh.ru/resume/1c098656ff0b3d9d1a0039ed1f46436d37637a)
+- :envelope: kar-zak1996@ya.ru
+- [#0A66C2](https://www.linkedin.com/in/solar-ka/)
+- [#26A5E4](https://t.me/solar_ka)
+- [<img src="[https://www.google.com/search?q=hh+%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF&sxsrf=ALiCzsZRuaVrfDV14fd_LocgxC8y97j_BA:1663239238783&source=lnms&tbm=isch&sa=X&ved=2ahUKEwja7oOA0Zb6AhVqiYsKHTCKBgkQ_AUoAXoECAEQAw&biw=1396&bih=633&dpr=1.38#imgrc=0S-T64t7kh9aoM" alt="альтернативный текст">](https://hh.ru/resume/1c098656ff0b3d9d1a0039ed1f46436d37637a)
 
 ༼ つ ◕_◕ ༽つ
 <!--
