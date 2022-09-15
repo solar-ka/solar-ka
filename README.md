@@ -9,7 +9,7 @@ Python 3, Django, pytest, git, REST API, PostgreSQl, gunicorn, Redoc
 :envelope: kar-zak1996@ya.ru
 [<img height="32" width="32" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/solar_ka)
 [<img height="32" width="32" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/solar-ka/)
-[<img height="32" width="32" src="https://hhru.github.io/api/logos/min-hh-red.eps)" />](https://hh.ru/resume/1c098656ff0b3d9d1a0039ed1f46436d37637a)
+[<img height="32" width="32" src="https://hhru.github.io/api/logos/min-hh-red.eps" />](https://hh.ru/resume/1c098656ff0b3d9d1a0039ed1f46436d37637a)
 
 ༼ つ ◕_◕ ༽つ
 <!--
